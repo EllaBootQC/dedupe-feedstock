@@ -37,7 +37,7 @@ requirements:
     - highered >=0.2.0
     - levenshtein-search
     - numpy >=1.20
-    - python >=3.8
+    - python
     - simplecosine >=1.2
     - zope.index
 
