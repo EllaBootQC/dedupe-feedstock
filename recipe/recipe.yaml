@@ -35,7 +35,7 @@ requirements:
     - doublemetaphone
     - haversine >=0.4.1
     - highered >=0.2.0
-    - dedupe_Levenshtein_search
+    - levenshtein-search
     - numpy >=1.20
     - python >=3.8
     - simplecosine >=1.2
