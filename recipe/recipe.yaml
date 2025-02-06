@@ -52,7 +52,7 @@ about:
   homepage: https://github.com/dedupeio/dedupe
   summary: A python library for accurate and scaleable data deduplication and entity-resolution
   license: MIT
-  license_file: LICENSE.txt
+  license_file: LICENSE
   repository: https://github.com/dedupeio/dedupe
 
 extra:
